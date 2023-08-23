@@ -1,3 +1,5 @@
+## Name: RAKESH V
+## REG NO: 212222110036
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
@@ -159,16 +161,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 
-
 ## Output  :
+![image](https://github.com/rakeshcoder2004/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121490890/dffc451f-c0b0-4aaf-a2c5-18484ba0fe66)
+![image](https://github.com/rakeshcoder2004/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121490890/0ca12732-5210-473e-9572-18412386bd5b)
 
-![7c50bd3e-132e-4e83-996c-6f1f0a1cf46a](https://github.com/rakeshcoder2004/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121490890/2c340cfa-8c3f-40b3-a503-36dec8fe9dd4)
-![1348215a-5899-43ce-baa3-08eb9e126c04](https://github.com/rakeshcoder2004/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121490890/9fa87208-b901-4eeb-9626-2c25e440cb49)
-
-
- 
- 
- 
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
